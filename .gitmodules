@@ -1,0 +1,3 @@
+[submodule "exercises/ex1/lib/forge-std"]
+	path = exercises/ex1/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
